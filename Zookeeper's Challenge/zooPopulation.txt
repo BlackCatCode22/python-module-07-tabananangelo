@@ -1,0 +1,28 @@
+Hyena Habitat:
+
+Hy01; Hyena Names:; birth date: 2021-01-01; born in spring; female; tan color; 70 pounds; arrived 2025-05-09
+Hy02; ; birth date: 2013-01-01; born in fall; male; brown color; 150 pounds; arrived 2025-05-09
+Hy03; Shenzi, Banzai, Ed, Zig, Bud, Lou, Kamari, Wema, Nne, Madoa, Prince Nevarah; birth date: 2021-01-01; born in spring; male; black color; 120 pounds; arrived 2025-05-09
+Hy04; ; birth date: 2017-01-01; unknown birth season; female; black and tan striped color; 105 pounds; arrived 2025-05-09
+
+Lion Habitat:
+
+Li01; Lion Names:; birth date: 2019-01-01; born in spring; female; tan color; 300 pounds; arrived 2025-05-09
+Li02; ; birth date: 2013-01-01; born in winter; female; dark tan color; 375 pounds; arrived 2025-05-09
+Li03; Scar, Mufasa, Simba, Kiara, King, Drooper, Kimba, Nala, Leo, Samson, Elsa, Cecil; birth date: 2003-01-01; born in fall; male; golden color; 450 pounds; arrived 2025-05-09
+Li04; ; birth date: 2021-01-01; born in spring; female; tan and brown color; 275 pounds; arrived 2025-05-09
+
+Tiger Habitat:
+
+Ti01; Bear Names:; birth date: 2023-01-01; born in spring; male; gold and tan stripes color; 270 pounds; arrived 2025-05-09
+Ti02; ; birth date: 2021-01-01; born in spring; female; black stripes color; 400 pounds; arrived 2025-05-09
+Ti03; Yogi, Smokey, Paddington, Lippy, Bungle, Baloo, Rupert, Winnie the Pooh, Snuggles, Bert; birth date: 2007-01-01; born in fall; male; gold and tan color; 300 pounds; arrived 2025-05-09
+Ti04; ; birth date: 2022-01-01; born in spring; female; black stripes color; 285 pounds; arrived 2025-05-09
+
+Bear Habitat:
+
+Be01; Tiger Names:; birth date: 2018-01-01; born in spring; male; brown color; 320 pounds; arrived 2025-05-09
+Be02; ; birth date: 2000-01-01; born in spring; female; black color; 425 pounds; arrived 2025-05-09
+Be03; Tony, Tigger, Amber, Cosimia, Cuddles, Dave, Jiba, Rajah, Rayas, Ryker; birth date: 2021-01-01; born in fall; female; black color; 355 pounds; arrived 2025-05-09
+Be04; NoName; birth date: 2021-01-01; born in spring; male; brown color; 405 pounds; arrived 2025-05-09
+
